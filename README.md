@@ -33,5 +33,32 @@ Unlike traditional calorie calculators, this system considers age-based metaboli
 ---
 
 ## TDEE Formula
+TDEE = ((10 × weight) + (6.25 × height) − (5 × age) + 5) × metabolic multiplier
 
+
+---
+
+## Technologies Used
+- Python
+- Tkinter (GUI)
+- Heuristic Search Algorithm
+- Constraint Satisfaction Logic
+- Nutrition Food Database
+
+---
+
+## Project Structure
+project/
+│
+├── project work.py
+├── README.md
+
+
+---
+
+## How to Run the Project
+1. Install Python 3
+2. Download the project files
+3. Open terminal in the project folder
+4. Run the program:
 
